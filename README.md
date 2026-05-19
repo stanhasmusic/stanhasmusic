@@ -6,7 +6,7 @@
   - [ocelot](https://github.com/stanhasmusic/ocelot) — shmup 2D shooter in Godot 4
   - AI/ML learning & tutorials
 
-  **background:** business, humanities, IT, and photography. now apparently also code.
+  **background:** business, humanities, IT, and photography. now apparently also code (jk i use the slop machines).
 
 <!--
 **stanhasmusic/stanhasmusic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
