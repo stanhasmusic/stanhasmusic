@@ -1,12 +1,9 @@
-# heyo, stan here
+hi, i'm stan.
 
-  noob learning a lot of stuff — game dev in Godot, Python, TypeScript, JSON, wtf a full stack is, etc etc.
+sometimes i make things  
 
-  **currently working on:**
-  - [ocelot](https://github.com/stanhasmusic/ocelot) — shmup 2D shooter in Godot 4
-  - AI/ML learning & tutorials
+  - [ocelot](https://github.com/stanhasmusic/ocelot) — shmup 2D shooter learning project
 
-  **background:** business, humanities, IT, and photography. now apparently also code (jk i use the slop machines).
 
 <!--
 **stanhasmusic/stanhasmusic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
