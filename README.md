@@ -4,6 +4,7 @@ sometimes i make things
 
   - [ocelot](https://github.com/stanhasmusic/ocelot) — shmup 2D shooter learning project
 
+  - [doobar3000](https://github.com/stanhasmusic/doobar3000) - a foobar2000 inspired windows native music player
 
 <!--
 **stanhasmusic/stanhasmusic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
